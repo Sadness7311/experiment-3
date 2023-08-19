@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+pre {
+  font-family: monospace;
+  font-weight: 400;
+  font-size: calc(.5vw + 10px);
+  margin: 20px;
+}
+
+button {
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  width: 100px;
+  height: 40px;
+  color: white;
+  font-family: monospace;
+  background-color: black;
+  border: 2px white solid;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}
+i {
+  font-size: calc(2vw + 5px);
+}
+
+h1 {
+  font-size: calc(6vw + 5vh);
+  margin: 0;
+}
+
+h2 {
+  font-size: calc(5vw + 3vh);
+  margin: 0;
+  cursor: pointer;
+}
+h2:hover {
+  transform: scale(1.2);
+}
+
+pre {
+  color: white;
+}

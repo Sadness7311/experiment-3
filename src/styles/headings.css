@@ -1,0 +1,19 @@
+.headings { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100vh;
+    background-color: rgb(255, 255, 118);
+    z-index: -1;
+}
+
+.headings * { opacity: 0 }
+
+.headings h1:first-child {
+    margin-top: 50px;
+}
