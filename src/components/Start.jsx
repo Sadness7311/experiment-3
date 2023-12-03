@@ -5,7 +5,7 @@ export default function Start( { handleStart } ) {
     
     return (
         <div className="start">
-            <pre>Welcome to USF Development 2023/22
+            <pre>Welcome to Experiment 3/22
                 <br />Click start to begin..
             </pre>
             <button onClick={handleStart}>Start</button>
