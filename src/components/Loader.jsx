@@ -20,9 +20,9 @@ export default function Loader() {
     }, [])
     return (
         <div className="loader">
-            <pre><strong>USF Inc.</strong>                Released: 2/2090/22
+            <pre><strong>Experiment 3</strong>                Released: 2/2090/22
                 <br /><br /><br />
-                USF 213 Special 2000-22000 UC1315 Go 88**
+                Experiment 3 213 Special 2000-22000 UC1315 Go 88**
                 <br /><br />
                 HSP Showcase Model Nika: 2021 2222 ##
                 <br />
