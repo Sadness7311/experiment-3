@@ -10,7 +10,6 @@ export default function Menu() {
     return (
         <div className="menu">
             <h2>Contact</h2>
-            <h2>Discord</h2>
             <h2>Back</h2>
         </div>
     )
