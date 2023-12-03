@@ -9,8 +9,8 @@ export default function Headings() {
     }, [ ])
     return (
         <div className="headings">
-            <h1>We Develop.</h1>
-            <h1>You Use.</h1>
+            <h1>2D Animation +</h1>
+            <h1>Coding</h1>
             <i className="ri-arrow-down-line"></i>
             <p>Scroll down</p>
             <Navbar />
